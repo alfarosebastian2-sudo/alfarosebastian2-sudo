@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Bienvenido/a a mi perfil técnico
 
-<!--
-**alfarosebastian2-sudo/alfarosebastian2-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional enfocado en el sector de **Sistemas, Redes e Infraestructura IT**, combinando capacidad de aprendizaje técnico con experiencia laboral activa en resolución de incidencias, comunicación con clientes y trabajo bajo objetivos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Mi Portfolio Interactivo
+Puedes probar mi consola de comandos interactiva aquí:  
+👉 **[Ver Portfolio CLI en vivo](https://github.com/alfarosebastian2-sudo/Portfolio/)**
+
+---
+
+### 🛠️ Áreas de interés y fundamentos en desarrollo
+- **Sistemas Operativos:** Manejo de entornos Windows a nivel avanzado y primeros pasos en distribuciones GNU/Linux (gestión básica por terminal, comandos y permisos).
+- **Redes:** Comprensión del modelo de red, direccionamiento IPv4, resolución DNS, DHCP y conectividad básica.
+- **Bases de Datos:** Fundamentos de bases de datos relacionales y estructura de consultas.
+- **Soporte & Resolución:** Diagnóstico de incidencias, trato con usuarios, atención a requerimientos y escalado eficiente.
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** [www.linkedin.com/in/sebastian-alfaro-602b93386]
+- **Email:** alfarosebastian2@gmail.com
